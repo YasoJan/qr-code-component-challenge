@@ -1,0 +1,45 @@
+body{
+	background-color: #D5E1EF;
+	font-family: sans-serif;
+
+}
+
+.qr-code-container{
+	width: 20vw;
+	height:35vh;
+	margin: 0 auto;
+}
+
+.qr-code{
+	width: 20vw;
+	height: 35vh;
+	margin-top: 2.5vh;
+	border-radius: .75rem;
+}
+
+.white-outline{
+	width: 20vw;
+	height: 60vh;
+	background-color: #FFFFFF;
+	margin: 0 auto;
+	margin-top: 15vh;
+	border-radius: 1rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+
+}
+
+h2{
+	text-align: center;
+	margin-top: 5vh;
+	font-size: 1.25rem;
+}
+
+
+p{
+	text-align: center;
+	color: grey;
+	font-size: .9rem;
+	line-height: 1.2rem;
+
+}
