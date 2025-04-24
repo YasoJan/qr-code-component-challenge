@@ -3,10 +3,14 @@
 This is my solution to the **QR Code Component Challenge** on [Frontend Mentor](https://www.frontendmentor.io/). It’s a simple, clean component built to practice core layout and styling fundamentals with HTML and CSS.
 
 
-## 📸 Screenshot
+## 📸 Original Image
+
+![Original image](./Original_Image.png)
+
+## 📸 Cloned Image
 
 ![Cloned image](./Cloned_Image.png)
-![Original image](./Original_Image.png)
+
 
 
 ## 🛠️ Tech Stack
