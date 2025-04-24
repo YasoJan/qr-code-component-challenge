@@ -5,7 +5,9 @@ This is my solution to the **QR Code Component Challenge** on [Frontend Mentor](
 
 ## 📸 Screenshot
 
-![screenshot](./Cloned_Image.png)
+![Cloned image](./Cloned_Image.png)
+![Original image](./Original_Image.png)
+
 
 ## 🛠️ Tech Stack
 
